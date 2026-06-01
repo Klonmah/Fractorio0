@@ -1,0 +1,3 @@
+Para realizar el cambio de 5 a 10 preguntas se tiene que:
+
+-Simplemente cambiar la variable "global.cantidadPreguntas" de 5 a 10 en BotonDificultad c:

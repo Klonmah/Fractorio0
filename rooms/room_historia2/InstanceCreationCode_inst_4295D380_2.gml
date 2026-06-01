@@ -1,0 +1,12 @@
+sprites[0]=spr_Historia201;
+sprites[1]=spr_Historia202;
+sprites[2]=spr_Historia203;
+sprites[3]=spr_Historia204;
+sprites[4]=spr_Historia204;
+sprites[5]=spr_Historia205;
+sprites[6]=spr_Historia205;
+sprites[7]=spr_Historia206;
+sprites[8]=spr_Historia206;
+sprites[9]=spr_Historia207;
+sprites[10]=spr_Historia207;
+sprite_index=sprites[0];

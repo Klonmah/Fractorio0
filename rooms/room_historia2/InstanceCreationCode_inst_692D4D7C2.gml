@@ -1,0 +1,13 @@
+dialogo[0]="Meladi tiene una prueba mañana. Ha estudiado, pero no se siente preparada.";
+text=dialogo[0];
+dialogo[1]="Ya es algo tarde, pero no le queda más opción que...";
+dialogo[2]="Invocar a un antiguo dios pagano.";
+dialogo[3]="Todos saben que quedarse estudiando hasta tarde es malo para la salud.";
+dialogo[4]="¡Dar tu alma por las respuestas de la prueba suena más saludable!";
+dialogo[5]="Apenas Meladi terminó de dibujar el ritual,\n una especie de diablo salió saltando de él."
+dialogo[6]="¡Qué fácil! Ni tuvo que aprenderse los cánticos,\n esto es mucho mejor que estudiar."
+dialogo[7]="\"ESTÚPIDA NIÑA, LEO TU MENTE, ¿¡OSAS INVOCARME A MÍ,\n OSVLODINIUM VON'ZHERKATITLOM XVIII,\n SOLO PARA UNA ESTÚPIDA PRUEBA DE MATEMÁTICAS?!\" \nexclamó el dios diablezco antes de dejar a Meladi siquiera hablar.";
+dialogo[8]="\"Por este vano insulto, os daré vuestro mayor miedo,\n una prueba de matemáticas,\n con una dificultad infernal solo para vos.\n Si osais fallar, ¡VUESTRA ALMA SERA MÍA!\" le ordenó.";
+dialogo[9]="¿Qué hará Meladi? Si no se sentía preparada para una prueba mañana, \n ¡menos lo estará para una ahora! Tendrá que usar todo lo aprendido...";
+dialogo[10]="\"Puedo ver el futurno, niña. ¡NO VIVES PARA VER EL MAÑANA!\"";
+level=room_quiz2;

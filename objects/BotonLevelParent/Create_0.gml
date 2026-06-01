@@ -1,0 +1,4 @@
+activar_boton= function()
+{
+	
+}
