@@ -1,21 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"BotonDificultad",
+  "%Name":"MusicPlayer",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"BotonDificultad",
+  "name":"MusicPlayer",
   "overriddenProperties":[],
   "parent":{
     "name":"obj",
     "path":"folders/obj.yy",
   },
-  "parentObjectId":{
-    "name":"BotonLevelParent",
-    "path":"objects/BotonLevelParent/BotonLevelParent.yy",
-  },
-  "persistent":false,
+  "parentObjectId":null,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -32,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_facil",
-    "path":"sprites/spr_facil/spr_facil.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
